@@ -1,8 +1,8 @@
 # trust_protocol.exe
 An immersive psychological thriller built in iSpring. Featuring a sleek diegetic UI and advanced branching logic, trust.exe simulates a high-stakes terminal system where your choices dictate survival. Pushing the limits of interactive design for professionals, gamers, and creators. Run at your own risk.
-# trust.exe
+# trust_protocol.exe
 
-A choice-driven interactive media project built using the iSpring Suite. Part narrative experiment and part psychological thriller, **trust.exe** challenges the user’s perception of security, digital autonomy, and execution control through a highly stylized, gamified interface.
+A choice-driven interactive media project built using the iSpring Suite. Part narrative experiment and part psychological thriller, **trust_protocol.exe** challenges the user’s perception of security, digital autonomy, and execution control through a highly stylized, gamified interface.
 
 Designed to push slide-based authoring tools past standard corporate limits, this project bridges advanced logical architecture with rich, atmospheric world-building.
 
@@ -29,4 +29,4 @@ Your choices dictate the outcome. The project utilizes hidden variable tracking 
 
 ---
 
-> **System Note:** Completed portfolio project. Open the index file to initialize. Run at your own risk.
+> **System Note:** Completed portfolio project. Pending review edits. Open the index file to initialize. Run at your own risk.
